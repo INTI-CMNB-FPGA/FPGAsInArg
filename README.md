@@ -248,19 +248,6 @@ Seltron
 * Actualización: 05-04-2016
 
 
-Slabs
-* Tipo:          empresa
-* Ubicación:     Buenos Aires - CABA
-* Web:           www.slabs.com.ar
-* Temas:         Diseño basado en FPGA: IP cores y PCB.
-                 Sistemas tolerantes a fallas.
-                 DSP.
-                 SoCs basados en LEON3/GRLIB y Xilinx Zynq.
-                 Sistema de navegacion integrada.
-                 Camara multiespectral.
-* Actualización: 03-04-2016
-
-
 Universidad Autónoma de Entre Ríos
 Facultad de Ciencia y Tecnología
 Grupo para la Investigación y Desarrollo en Electrónica Digital y
@@ -414,6 +401,18 @@ Centro Universitario de Desarrollo en Automatización y Robótica (CUDAR)
 * Temas:         Desarrollos con FPGAs de Xilinx. Sistemas de control.
                  Compresores de vídeo.
 * Actualización: 16-03-2016
+
+
+Universidad Tecnológica Nacional (UTN)
+Facultad Regional Haedo (FRH)
+Grupo de Aplicaciones en Sistemas Embebidos
+* Tipo:          universidad
+* Ubicación:     Buenos Aires - Haedo
+* Web:           www.frh.utn.edu.ar/cms
+* Temas:         Enseñanza de lenguajes de descripción de hardware (VHDL, Verilog).
+                 Desarrollo de módulos de búsqueda y seguimiento para receptor GPS sobre FPGA.
+                 Desarrollo de sistemas con seguridad funcional sobre FPGA.
+* Actualización: 04-09-2018
 
 
 Universidad Tecnológica Nacional (UTN)
